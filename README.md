@@ -12,3 +12,7 @@
 [About Private packages](https://docs.npmjs.com/about-private-packages)<br />
 [Private package collaborators](https://docs.npmjs.com/adding-collaborators-to-private-packages-owned-by-a-user-account)<br />
 [Private package collaborator teams](https://docs.npmjs.com/managing-team-access-to-org-packages)<br />
+
+## Useful notes ##
+- @scope for the package name has to match your npm username
+- Package name has to be unique
