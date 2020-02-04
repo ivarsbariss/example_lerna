@@ -1,5 +1,5 @@
 {
-  "name": "@testivarsbariss/c",
+  "name": "@ivarsbariss/c",
   "version": "3.0.0",
   "description": "> TODO: description",
   "author": "Ivars Bariss <ivars@solspace.com>",
@@ -19,5 +19,5 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "9de20b344cfda4b398565879f83ceb4c8cfc8e08"
+  "gitHead": "077072c86a284020e4fc39d37c7e253895ef037c"
 }
