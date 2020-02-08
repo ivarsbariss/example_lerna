@@ -2,6 +2,6 @@
 
 module.exports = a;
 
-function a() {
-    // TODO
+function a(test) {
+    console.log(test)
 }
