@@ -1,7 +1,7 @@
 ## Publish a new major version ##
 1. `npm login` #Log in your https://www.npmjs.com/ account
 2. `git add -A`
-3. `git commit -m "Some updates'`
+3. `git commit -m "Some updates"`
 4. `git push origin master`
 5. `lerna version major`
 6. `lerna publish from-git`
